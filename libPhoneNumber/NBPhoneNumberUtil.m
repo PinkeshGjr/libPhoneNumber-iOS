@@ -2319,7 +2319,7 @@ static NSArray *GEO_MOBILE_COUNTRIES;
     return NBEPhoneNumberTypeMOBILE;
   }
 
-  return NBEPhoneNumberTypeUNKNOWN;
+  return NBEPhoneNumberTypeMOBILE;
 }
 
 /**
